@@ -1,0 +1,16 @@
+{
+  "name": "translation-merge-tool",
+  "version": "1.0.0",
+  "description": "Update xliff translation using another xliff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kamyong.kim@lgepartner.com",
+  "license": "MIT",
+  "dependencies": {
+    "argv": "0.0.2",
+    "promise": "^7.1.1",
+    "xml2js": "^0.4.16"
+  }
+}
